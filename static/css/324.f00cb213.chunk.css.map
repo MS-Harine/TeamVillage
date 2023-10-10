@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/324.f00cb213.chunk.css","mappings":"AAAA,aACE,sBAAuB,CACvB,eAAgB","sources":["assets/theme/fonts.scss"],"sourcesContent":["p, span, label {\n  font-family: Pretendard;\n  font-weight: 600;\n}"],"names":[],"sourceRoot":""}
